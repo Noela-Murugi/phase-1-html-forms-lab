@@ -8,3 +8,16 @@ form * {
   display:inline;
 
 }
+
+ul li {
+  list-style: none;
+  display: inline;
+  margin-right: 40px;
+}
+
+header{
+  background-color:bisque;
+  margin: 20px;
+  padding: 30px;
+  width:100%;
+}
